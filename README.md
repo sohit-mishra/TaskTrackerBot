@@ -57,7 +57,7 @@ BOT_TOKEN=your-telegram-bot-token
 4. Start the bot:
 
 ```
-node taskTrackerBot.js
+node bot.js
 ```
 
 # Usage
